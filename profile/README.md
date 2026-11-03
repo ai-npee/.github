@@ -6,7 +6,7 @@
 
 [![GitHub Organization](https://img.shields.io/badge/Organization-ai--npee-blue?style=flat-square&logo=github)](https://github.com/ai-npee)
 [![Members](https://img.shields.io/badge/Members-Growing-green?style=flat-square)](https://github.com/orgs/ai-npee/people)
-[![License](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)](https://github.com/ai-npee/.github/blob/master/LICENSE)
+[![License](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)](https://github.com/ai-npee/.github/blob/main/LICENSE)
 
 </div>
 
@@ -119,9 +119,9 @@
 
 我们欢迎所有形式的贡献！在参与之前，请阅读：
 
-- [📋 贡献指南](https://github.com/ai-npee/.github/blob/master/CONTRIBUTING.md)
-- [📜 行为准则](https://github.com/ai-npee/.github/blob/master/CODE_OF_CONDUCT.md)
-- [⚖️ 版权说明](https://github.com/ai-npee/.github/blob/master/LICENSE)
+- [📋 贡献指南](https://github.com/ai-npee/.github/blob/main/CONTRIBUTING.md)
+- [📜 行为准则](https://github.com/ai-npee/.github/blob/main/CODE_OF_CONDUCT.md)
+- [⚖️ 版权说明](https://github.com/ai-npee/.github/blob/main/LICENSE)
 
 ### 贡献类型
 
@@ -137,7 +137,7 @@
 
 ## 📜 开源协议
 
-本组织的代码与工具遵循 [MIT](https://github.com/ai-npee/.github/blob/master/LICENSE) 协议：
+本组织的代码与工具遵循 [MIT](https://github.com/ai-npee/.github/blob/main/LICENSE) 协议：
 
 - ✅ **自由使用** - 可以自由使用、复制、分发
 - ✅ **允许修改** - 可以修改、合并、发布、再许可
