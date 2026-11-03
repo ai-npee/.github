@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💬 讨论区
+    url: https://github.com/orgs/ai-npee/discussions
+    about: 提问、交流经验、分享资源，请优先使用 Discussions
