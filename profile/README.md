@@ -6,7 +6,7 @@
 
 [![GitHub Organization](https://img.shields.io/badge/Organization-ai--npee-blue?style=flat-square&logo=github)](https://github.com/ai-npee)
 [![Members](https://img.shields.io/badge/Members-Growing-green?style=flat-square)](https://github.com/orgs/ai-npee/people)
-[![License](https://img.shields.io/badge/License-CC--BY--SA--4.0-orange?style=flat-square)](LICENSE)
+[![License](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)](https://github.com/ai-npee/.github/blob/master/LICENSE)
 
 </div>
 
@@ -119,9 +119,9 @@
 
 我们欢迎所有形式的贡献！在参与之前，请阅读：
 
-- [📋 贡献指南](CONTRIBUTING.md)
-- [📜 行为准则](CODE_OF_CONDUCT.md)
-- [⚖️ 版权说明](LICENSE)
+- [📋 贡献指南](https://github.com/ai-npee/.github/blob/master/CONTRIBUTING.md)
+- [📜 行为准则](https://github.com/ai-npee/.github/blob/master/CODE_OF_CONDUCT.md)
+- [⚖️ 版权说明](https://github.com/ai-npee/.github/blob/master/LICENSE)
 
 ### 贡献类型
 
@@ -137,14 +137,13 @@
 
 ## 📜 开源协议
 
-本组织的资料遵循 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) 协议：
+本组织的代码与工具遵循 [MIT](https://github.com/ai-npee/.github/blob/master/LICENSE) 协议：
 
 - ✅ **自由使用** - 可以自由使用、复制、分发
-- ✅ **允许修改** - 可以修改和演绎
-- ⚠️ **署名要求** - 必须给出适当的署名
-- ⚠️ **相同方式共享** - 若修改，必须以相同协议分发
+- ✅ **允许修改** - 可以修改、合并、发布、再许可
+- ⚠️ **保留声明** - 分发时需保留版权声明与许可声明
 
-代码类项目遵循各自仓库指定的开源协议。
+资料类仓库若涉及第三方教材内容，遵循该仓库自身声明的授权范围。
 
 ---
 
